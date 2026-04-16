@@ -51,3 +51,11 @@
 ### Quais são as bibliotecas com mais ou menos quantidade de empréstimos?
 
 ### De quais temas da CDU são os exemplares emprestados?
+
+
+# Desafio do Quinto dia do 7 days of Code | Python Pandas:
+
+### Avaliação da distribuição de empréstimos mensais por ano, realizados ente 2010 e 2020 da coleção que tiver a maior frequência de empréstimos. Referente os vínculos:
+- Alunos de Graduação;
+
+- Alunos de Pós-Graduação;
