@@ -1,3 +1,5 @@
 *.csv
 *.parquet
+*.xlsx
+*.json
 Datasets/
