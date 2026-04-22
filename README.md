@@ -59,3 +59,26 @@
 - Alunos de Graduação;
 
 - Alunos de Pós-Graduação;
+
+
+# Desafio do Sexto dia do 7 days of Code | Python Pandas:
+
+### Calcular a quantidade de empréstimos realizados entre 2015 e 2020 por cada curso de graduação que passará pela avaliação.
+
+### Cursos requisitados para análise:
+- Biblioteconomia
+- Ciências sociais
+- Comunicação social
+- Direito
+- Filosofia
+- Pedagogia
+
+Também foi realizado a junção de duas novas tabelas de cadastro de alunos em dois formatos diferentes:
+- .json
+- Excel (.xlsx)
+
+No final, uma tabela foi gerada com as seguintes informações:
+- Índice: Cursos
+- Colunas: Ano
+- Valores: Quantidade de empréstimos
+- Total: Total de empréstimos por ano
