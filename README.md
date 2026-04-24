@@ -82,3 +82,25 @@ No final, uma tabela foi gerada com as seguintes informações:
 - Colunas: Ano
 - Valores: Quantidade de empréstimos
 - Total: Total de empréstimos por ano
+
+
+# Desafio do Sétimo dia do 7 days of Code | Python Pandas:
+
+### Analisar a diferença percentual de empréstimos dos últimos anos relacionado com os alunos de pós-graduação, para cada curso.
+
+* Devido à pandemia do COVID-19, não será requisitado os danos de 2020 e 2021
+
+### Criação de uma tabela com as diferenças percentuais de empréstimos dos anos:
+- 2017-2018
+- 2018-2019
+- 2019-2022
+
+Para o cálculo dos percentuais, foi utilizado a fórmula da variação:
+
+* Variação = ((v_final - v_inicial) / v_inicial) * 100
+
+### Criação do arquivo HTML com a tabela dos percentuais criado, com as seguintes características:
+- Sem numeração de índice
+- Nomes dos cursos somente com a primeira letra em maiúsculo
+- Os números dos percentuais estejam indicados pelo símbolo "%"
+- Números positivos na cor verde e negativos na cor vermelha
