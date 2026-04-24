@@ -88,7 +88,7 @@ No final, uma tabela foi gerada com as seguintes informações:
 
 ### Analisar a diferença percentual de empréstimos dos últimos anos relacionado com os alunos de pós-graduação, para cada curso.
 
-* Devido à pandemia do COVID-19, não será requisitado os danos de 2020 e 2021
+* Devido à pandemia do COVID-19, não será requisitado os dados de 2020 e 2021
 
 ### Criação de uma tabela com as diferenças percentuais de empréstimos dos anos:
 - 2017-2018
